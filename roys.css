@@ -1,0 +1,410 @@
+*{
+    margin: 0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+.container{
+    width: 100%;
+    height: 100vh;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover; 
+    background-image: url("https://cf-images.eu-west-1.prod.boltdns.net/v1/static/1634657725001/864fbb37-86fb-41eb-8c56-c9968f66ec73/555f8abf-8482-4ed5-a993-1946ec16c574/1080x1920/match/image.jpg");
+    text-align:center;
+}
+.p-1{
+    font-size: 12px;
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    line-height: 24px;
+    letter-spacing: 2.00004px;
+    /* text-align: left; */
+    color: white;
+    /* margin-left: 50px;
+    padding-top: 50px; */
+}
+#img-1{
+    width: 50px;
+    
+}
+#img-2{
+    
+    width: 10px;
+    
+}
+header{
+    width: 100%;
+    height: 100px;
+    /* background-color: beige; */
+    text-align: center;
+}
+nav{
+width: 100%;
+height: 100px;
+/* background-color: blue; */
+display: flex;
+align-items: center;
+justify-content:space-between;
+
+}
+.P-2{
+    font-size: 12px;
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    line-height: 24px;
+    letter-spacing: 2.00004px;
+    color: white;
+}
+.p-spe{
+    font-size: 70px;
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    line-height: 21px;
+    letter-spacing: 0.49994px;
+    text-align: center;
+    color: white;
+    margin-top: 200px;
+}
+.butt{
+    font-size: 20px;
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    line-height: 21px;
+    letter-spacing: 0.49994px;
+    text-align: center;
+    color: rgb(17, 16, 16);
+    margin-top: 50px;
+
+}
+.container-1{
+   
+    background-image: url("https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/rollsroycemotorcars_com/1-0-home/page-properties/BS_Hero_desktop.jpg/jcr:content/renditions/original");
+    width: 100%;
+    height: 100vh;
+}
+.p-spe-1{
+    font-size: 70px;
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    line-height: 21px;
+    letter-spacing: 0.49994px;
+    text-align: center;
+    color: white;
+    padding-top: 50vh;
+    
+}
+.butt-1{
+    font-size: 20px;
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    line-height: 21px;
+    letter-spacing: 0.49994px;
+    text-align: center;
+    color: rgb(17, 16, 16);
+    margin-top: 50px;
+    margin-left: 550px;
+}
+.container-2{
+   
+    background-image: url("https://www.rolls-roycemotorcars.com/content/dam/rrmc/marketUK/common/navigation/desktop/RRMC_Model_Phantom_II_M.jpg/jcr:content/renditions/cq5dam.web.1920.jpeg");
+    width: 100%;
+    height: 100vh;
+}
+.p-spe-2{
+    font-size: 70px;
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    line-height: 21px;
+    letter-spacing: 0.49994px;
+    text-align: center;
+    color: white;
+    padding-top: 50vh;
+}
+.butt-2{
+    font-size: 20px;
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    line-height: 21px;
+    letter-spacing: 0.49994px;
+    text-align: center;
+    color: rgb(17, 16, 16);
+    margin-top: 50px;
+    margin-left: 600px;
+}
+.container-3{
+   
+    background-color: #222222;
+    width: 100%;
+    height: 300PX;
+}
+.p-spe-3{
+    font-size: 40px;
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    line-height: 21px;
+    letter-spacing: 0.49994px;
+    text-align: center;
+    color: white;
+    padding-top: 20vh;
+}
+.p-spe-3-1{
+    font-size: 20px;
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    line-height: 21px;
+    letter-spacing: 0.49994px;
+    text-align: center;
+    color: white;
+    padding-top: 10vh;
+}
+.container-3{
+   
+    background-color:#222222;
+    width: 100%;
+    height: 50VH;
+}
+
+.container-4{
+    width: 100%;
+    height: 100vh;
+    background-color: #222222;
+    display: flex;
+}
+.side-1{
+    width: 33%;
+    height: 100vh;
+    background-color:#222222;
+}
+.side-2{
+    width: 33%;
+    height: 100vh;
+    background-color:#222222;
+}
+.side-3{
+    width: 34%;
+    height: 100vh;
+    background-color:#222222;
+}
+.photo-1{
+    width: 400px;
+    height: 400px;
+}
+.photo-2{
+    width: 400px;
+    height: 400px;
+}
+.photo-3{
+    height: 400px;
+    width: 400px;
+    background-color:#222222;
+
+}
+.sec{
+    background-color:#151515;
+width: 100%;
+height: 700px;
+}
+.nideesh{
+    width: 20px;
+    height: 200vh;
+}
+.side-1-p{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 22px;
+    line-height: 21px;
+    text-align: start;
+    letter-spacing: 0.49994px;
+    color: white;
+}
+.MOTO{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 15px;
+    line-height: 21px;
+    text-align: start;
+    letter-spacing:normal;
+    color: white;
+}
+.side-2-p{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 22px;
+    line-height: 21px;
+    text-align: start;
+    color: white;
+    letter-spacing: 0.49994px;
+}
+.moto-2{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 15px;
+    line-height: 21px;
+    text-align: start;
+    letter-spacing:normal;
+    color: white;
+}
+.side-3-p{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 22px;
+    line-height: 21px;
+    text-align: start;
+    letter-spacing: 0.49994px;
+    color: white;
+}
+.moto-3{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 15px;
+    line-height: 21px;
+    text-align: start;
+    letter-spacing:normal;
+    color: white;
+}
+.foot{
+    width: 100%;
+    height: 100px;
+    background-color:#151515;
+    
+}
+.foot-2{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 25px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing:0.49994px;
+    color: #ffffff;
+}
+.foot-3{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 10px;
+    line-height: 21px;
+    text-align: center;
+    letter-spacing:0.49994px;
+    color: #ffffff;
+}
+.foot-main{
+    width: 100%;
+    height: 100px;
+    background-color:#151515;
+    display: flex;
+}
+
+.foot-4{
+    width: 25%;
+    height: 100px;
+    background-color:#151515;
+}
+.foot-5{
+    width: 25%;
+    height: 100px;
+    background-color:#151515;
+}
+.foot-6{
+    width: 25%;
+    height: 100px;
+    background-color:#151515;
+}
+.foot-7{
+    width: 25%;
+    height: 100px;
+    background-color:#151515;
+}
+.roll-1{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing:2.00004px;
+    color: #ffffff;
+}
+.roll-2{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing:2.00004px;
+    color: #ffffff;
+}
+.roll-3{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing:2.00004px;
+    color: #ffffff;
+}
+.roll-2-1{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing:2.00004px;
+    color: #ffffff;
+}
+.roll-2-2{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing:2.00004px;
+    color: #ffffff;
+}
+.roll-2-3{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing:2.00004px;
+    color: #ffffff;
+}
+.roll-3-1{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing:2.00004px;
+    color: #ffffff;
+}
+.roll-3-2{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing:2.00004px;
+    color: #ffffff;
+}
+.roll-4-1{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing:2.00004px;
+    color: #ffffff;
+}
+.roll-4-2{
+    font-family: "Riviera Nights", "Gill Alt One MT", Helvetica, Arial, -apple-system, sans-serif;
+    font-size: 12px;
+    line-height: 21px;
+    text-align: left;
+    letter-spacing:2.00004px;
+    color: #ffffff;
+}
+.last{
+    width: 100%;
+    height: 110px;
+    background-color:#151515;
+    display: flex;
+    align-items: flex-start;
+}
+.last-1{
+    width: 70px;
+    height: 70px;
+    
+}
+.last-2{
+    width: 70px;
+    height: 70px;
+}
+.last-3{
+    width: 70px;
+    height: 70px;
+}
+.last-4{
+    width: 70px;
+    height: 70px;
+}
+.last-5{
+    width: 70px;
+    height: 70px;
+}
+.roys{
+    padding-right: 100px;
+}
+
+
